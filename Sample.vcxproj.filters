@@ -15,8 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sample.cpp">
+    <None Include="whirlfisheye.frag">
       <Filter>Source Files</Filter>
-    </ClCompile>
+    </None>
+    <None Include="whirlfisheye.glib">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="whirlfisheye.vert">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
